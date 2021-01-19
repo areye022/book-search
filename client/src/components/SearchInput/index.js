@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-import SearchResult from "../SearchResult"
 
 function SearchInput(props){
     return (

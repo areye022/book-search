@@ -18,7 +18,7 @@
     height: 80px;
     max-width: 1500px;
   }
-  
+
   .navbar-logo {
     color: #fff;
     justify-self: start;
@@ -29,12 +29,12 @@
     display: flex;
     align-items: center;
   }
-  
+    
   .fa-typo3 {
     margin-left: 0.5rem;
     font-size: 1.8rem;
   }
-  
+ 
   .nav-menu {
     display: grid;
     grid-template-columns: repeat(4, auto);
@@ -49,7 +49,7 @@
   .nav-item {
     height: 80px;
   }
-  
+   
   .nav-links {
     color: #fff;
     display: flex;
@@ -59,12 +59,12 @@
     height: 100%;
     float: right;
   }
-  
+   
   .nav-links:hover {
     border-bottom: 4px solid #fff;
     transition: all 0.2s ease-out;
   }
-  
+
   .fa-bars {
     color: #fff;
   }
@@ -159,4 +159,4 @@
       color: #242424;
       transition: 250ms;
     }
-  }
+  } 

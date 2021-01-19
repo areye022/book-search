@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Button, Form, FormGroup, Label, Input, CardColumns, Container } from 'reactstrap';
 import SearchResult from "../SearchResult";
 import SearchInput from "../SearchInput";
 import API from "../../utils/API"

@@ -7,11 +7,7 @@
     text-align: center;
   }
   
-  ul{
-    width: 50%;
-    height: 300px;
-  }
-  .cards__container {
+    .cards__container {
     display: flex;
     flex-flow: row;
     justify-content: center ;
