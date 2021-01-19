@@ -2,7 +2,7 @@
 
 ### Deployed Application 
 
-[Responsive Portfolio](https://booksearch-application.herokuapp.com/)
+[Book-Search](https://booksearch-application.herokuapp.com/)
 
 ![Screenshot of book-search home page](./client/public/images/book-search.JPG)
 
